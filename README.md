@@ -6,6 +6,7 @@ Ruby
 ```
 ruby magic_ball.rb
 ```
-Использование:
-1.  Придумайте вопрос на который нужен ответ
-2.  Запустите файл magic_ball.rb
+Using:
+1. Come up with a question that needs advice
+2. Run the file magic_ball.rb
+3. Get advice 
